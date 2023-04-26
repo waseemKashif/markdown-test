@@ -1,6 +1,4 @@
-<head>
-<link rel="stylesheet" href="style.css">
-</head>
+
 <!-- Headings -->
 # Heading 1
 ## heading 2 
@@ -108,12 +106,7 @@ def addNum(Num1,Num2):
 <!-- Advance Code blocks -->
 
 
-<div class="code-block">
-    <h4>File name: `hello_world.py`</h4>
-    ```python
-    def hello_world():
-        print("Hello, world!")
-    
-    hello_world()
-    ```
-</div>
+#### **`hello_world.js`**
+``` js
+alert("Hello world!");
+```
