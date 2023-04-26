@@ -1,0 +1,12 @@
+.code-block {
+        background-color: #f0f0f0;
+        padding: 10px;
+        border-radius: 5px;
+    }
+    .code-block h4 {
+        background-color: #2f4f4f;
+        color: #fff;
+        padding: 5px 10px;
+        border-radius: 5px 5px 0 0;
+        margin-top: 0;
+    }

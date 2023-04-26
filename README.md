@@ -105,21 +105,12 @@ def addNum(Num1,Num2):
 <!-- Advance Code blocks -->
 
 
-
-
-   #### ` hello_world.py`
-    ```python {.code-block style="background-color: #f0f0f0; border-radius: 5px;" }
+<div class="code-block">
+    <h4>File name: `hello_world.py`</h4>
+    ```python
     def hello_world():
         print("Hello, world!")
     
     hello_world()
     ```
-<style>
-    
-     h4 {
-        background-color: #2f4f4f;
-        color: #fff;
-        border-radius: 5px 5px 0 0;
-        margin-bottom: 0;
-    }
-</style>
+</div>
