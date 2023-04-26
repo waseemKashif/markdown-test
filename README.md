@@ -106,26 +106,19 @@ def addNum(Num1,Num2):
 
 
 
-<div class="code-block">
 
    #### ` hello_world.py`
-    ```python
+    ```python {.code-block style="background-color: #f0f0f0; border-radius: 5px;" }
     def hello_world():
         print("Hello, world!")
     
     hello_world()
     ```
-</div>
 <style>
-    .code-block {
-        background-color: #f0f0f0;
-        /* padding: 10px; */
-        border-radius: 5px;
-    }
-    .code-block h4 {
+    
+     h4 {
         background-color: #2f4f4f;
         color: #fff;
-        /* padding: 5px 10px; */
         border-radius: 5px 5px 0 0;
         margin-bottom: 0;
     }
