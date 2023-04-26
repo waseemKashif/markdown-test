@@ -106,9 +106,13 @@ def addNum(Num1,Num2):
 <!-- Advance Code blocks -->
 
    
-`````
+<!-- `````
 hello.js
 ````` 
 ```js
  alert("hello world");
- ```
+ ``` -->
+
+```python{background:blue}
+print("Hello, world!")
+```
