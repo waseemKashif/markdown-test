@@ -104,11 +104,9 @@ def addNum(Num1,Num2):
 
 <!-- Advance Code blocks -->
 
-### **`myscript.py`**
+````markdown
+`Hello World in Python`{.python}
+
 ```python
-def hello_world():
-    print("Hello, world!")
-
-hello_world()
-
+print("Hello, world!")
 ```
