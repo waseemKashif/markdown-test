@@ -105,7 +105,8 @@ def addNum(Num1,Num2):
 <!-- Advance Code blocks -->
 
 
-`python`.python
+`python`
 ```python
+
 print("Hello, world!")
 ````
