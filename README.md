@@ -100,3 +100,13 @@ def addNum(Num1,Num2):
 * [x] task 1
 * [x] task 2
 * [ ] task 3 
+
+
+<!-- Advance Code blocks -->
+
+# myscript.py
+
+def hello_world():
+    print("Hello, world!")
+
+hello_world()
