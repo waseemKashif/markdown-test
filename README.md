@@ -1,3 +1,6 @@
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
 <!-- Headings -->
 # Heading 1
 ## heading 2 
